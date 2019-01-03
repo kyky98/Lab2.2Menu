@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab2 2 Menu</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_us">About Us</string>
+    <string name="show_main">Show Main</string>
+    <string name="visit_tar_uc">Visit TAR UC</string>
+    <string name="email_tar_uc">Email TAR UC</string>
+    <string name="dial_012345678">Dial 012345678</string>
+</resources>
